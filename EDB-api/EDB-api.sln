@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDB-api", "EDB-api\EDB-api.csproj", "{0B33D933-7C0D-45DB-865F-1F816CE836F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B33D933-7C0D-45DB-865F-1F816CE836F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B33D933-7C0D-45DB-865F-1F816CE836F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B33D933-7C0D-45DB-865F-1F816CE836F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B33D933-7C0D-45DB-865F-1F816CE836F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FE1ECB-2B62-4078-A501-C333A3162F49}
+	EndGlobalSection
+EndGlobal
